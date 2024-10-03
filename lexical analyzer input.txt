@@ -1,0 +1,8 @@
+/*hello
+this* is a test file
+2342 if <>=
+end.*/
+
+hello abcdefghijklmno add3f,mhello
+4 37248 if + if+ i+f -* /fi=<>(),;.:= <= < > >= <>
+then else while call do

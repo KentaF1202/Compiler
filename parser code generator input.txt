@@ -1,0 +1,7 @@
+const z = 5;
+var x, y;
+begin
+	x := 2;
+	if x = 2 then read y;
+	while x > 1 do y := (y + 1)
+end.
